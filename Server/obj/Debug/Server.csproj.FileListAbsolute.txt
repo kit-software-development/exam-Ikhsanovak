@@ -1,0 +1,11 @@
+C:\Users\Karina\Documents\PongGame-Igor\Server\bin\Debug\Server.exe.config
+C:\Users\Karina\Documents\PongGame-Igor\Server\bin\Debug\Server.exe
+C:\Users\Karina\Documents\PongGame-Igor\Server\bin\Debug\Server.pdb
+C:\Users\Karina\Documents\PongGame-Igor\Server\bin\Debug\Net.Library.pdb
+C:\Users\Karina\Documents\PongGame-Igor\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Karina\Documents\PongGame-Igor\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\PongGame-Igor\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Karina\Documents\PongGame-Igor\Server\obj\Debug\Server.exe
+C:\Users\Karina\Documents\PongGame-Igor\Server\obj\Debug\Server.pdb
+C:\Users\Karina\Documents\PongGame-Igor\Server\bin\Debug\Net.Library.dll
+C:\Users\Karina\Documents\PongGame-Igor\Server\bin\Debug\Net.Library.dll.config

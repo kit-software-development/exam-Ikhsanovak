@@ -1,0 +1,7 @@
+C:\Users\Karina\Documents\PongGame-Igor\Net.Library\bin\Debug\Net.Library.pdb
+C:\Users\Karina\Documents\PongGame-Igor\Net.Library\obj\Debug\Net.Library.csprojAssemblyReference.cache
+C:\Users\Karina\Documents\PongGame-Igor\Net.Library\obj\Debug\Net.Library.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Documents\PongGame-Igor\Net.Library\obj\Debug\Net.Library.pdb
+C:\Users\Karina\Documents\PongGame-Igor\Net.Library\bin\Debug\Net.Library.dll.config
+C:\Users\Karina\Documents\PongGame-Igor\Net.Library\bin\Debug\Net.Library.dll
+C:\Users\Karina\Documents\PongGame-Igor\Net.Library\obj\Debug\Net.Library.dll

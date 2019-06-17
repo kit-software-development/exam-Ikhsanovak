@@ -23,7 +23,21 @@ namespace Net.Library.connection
 
         public void Send(Message message)
         {
-            if (!Client.Connected)
+            try
+            {
+                if (!this.Client.Connected)
+                {
+                    var connection = new TcpConnection(Client);
+                    var args = new TcpConnectionArgs
+                    {
+                        Connection = connection
+                    };
+                    OnDisconnect?.Invoke(this, args);
+                    return;
+                }
+                this.Client.Send(message);
+            }
+            catch (Exception)
             {
                 var connection = new TcpConnection(Client);
                 var args = new TcpConnectionArgs
@@ -33,7 +47,6 @@ namespace Net.Library.connection
                 OnDisconnect?.Invoke(this, args);
                 return;
             }
-            Client.Send(message);
         }
 
         public T Read<T>() where T : Message
